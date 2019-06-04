@@ -24,6 +24,11 @@
     </properties>-->
 
     <dependencies>
+        <dependency>
+            <groupId>com.chenxw.demo</groupId>
+            <artifactId>demo-facade</artifactId>
+            <version>${version}</version>
+        </dependency>
     </dependencies>
 
 

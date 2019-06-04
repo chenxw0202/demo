@@ -1,4 +1,4 @@
-package com.chenxw.demo.facade.impl;
+package com.chenxw.demo.biz;
 
 import com.chenxw.demo.facade.TestFacade;
 import com.chenxw.demo.service.TestService;
