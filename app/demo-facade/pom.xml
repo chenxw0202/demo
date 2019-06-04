@@ -15,19 +15,7 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
-    <dependencies>
-        <!--<dependency>
-            <groupId>com.alibaba.spring.boot</groupId>
-            <artifactId>dubbo-spring-boot-starter</artifactId>
-            <version>2.0.0</version>
-        </dependency>-->
-    </dependencies>
-    <!--<properties>
-        <java.version>1.8</java.version>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>${version}</maven.compiler.source>
-        <maven.compiler.target>${version}</maven.compiler.target>
-    </properties>-->
+
 
 
 </project>
